@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/03/25 19:05:19.313,C:\delphi\projetos\bussines\bussiness.dproj=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/25 19:17:08.571,=C:\delphi\projetos\bussines\Unit1.pas</Transaction>
+    <Transaction>2023/03/25 19:18:50.591,C:\delphi\projetos\bussines\src\providers\Providers.Connection.pas=C:\delphi\projetos\bussines\Unit1.pas</Transaction>
+    <Transaction>2023/03/25 19:18:50.591,C:\delphi\projetos\bussines\src\providers\Providers.Connection.dfm=C:\delphi\projetos\bussines\Unit1.dfm</Transaction>
+    <Transaction>2023/03/25 19:49:40.687,=C:\delphi\projetos\bussines\Unit1.pas</Transaction>
+    <Transaction>2023/03/25 19:50:18.656,=C:\delphi\projetos\bussines\Unit1.pas</Transaction>
+    <Transaction>2023/03/25 19:52:04.357,C:\delphi\projetos\bussines\src\providers\Providers.Cadastro.pas=C:\delphi\projetos\bussines\Unit1.pas</Transaction>
+    <Transaction>2023/03/25 19:52:04.357,C:\delphi\projetos\bussines\src\providers\Providers.Cadastro.dfm=C:\delphi\projetos\bussines\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

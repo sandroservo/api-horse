@@ -1,0 +1,4 @@
+object ProviderConnection: TProviderConnection
+  Height = 169
+  Width = 286
+end

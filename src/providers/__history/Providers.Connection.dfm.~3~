@@ -1,0 +1,15 @@
+object ProviderConnection: TProviderConnection
+  Height = 169
+  Width = 286
+  object FDConnection: TFDConnection
+    Params.Strings = (
+      'ConnectionDef=PG')
+    Left = 88
+    Top = 48
+  end
+  object FDPhysPgDriverLink: TFDPhysPgDriverLink
+    VendorHome = 'C:\delphi\projetos\bussines\libs'
+    Left = 192
+    Top = 64
+  end
+end
